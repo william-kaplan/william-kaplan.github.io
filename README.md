@@ -1,8 +1,11 @@
-## Projeto Dev em Dobro
+## Projeto Game - Red Dead Redemption 2
+Este é um projeto de uma página sobre informações de venda e trailer do jogo. O projeto foi adaptado a partir do curso Dev em Dobro e personalizado para apresentar o trailer e as plataformas disponiveis, redirecionando para o site de compra.
 
-- Foi realizado o projeto do site do jogo Red Dead Redemption 2 em parceria com o Dev em Dobro.
+## Tecnologias Utilizadas:
+* HTML5
+* CSS3
+* JavaScript
 
-## O que foi feito:
+## Créditos:
+Este projeto foi desenvolvido com a ajuda do Dev em Dobro.
 
-- Fiz uma pequena alteração no projeto inical, onde acrescentei o botão de trailer do jogo.
-- Adicionei a opção para o usuario escolher a plataforma e ser redirecionado para o site de compra.
