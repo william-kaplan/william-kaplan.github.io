@@ -50,7 +50,8 @@
         padding: 15px;
     }
 
-    .btn-comprar {
+    .btn-comprar,
+    .btn-trailer {
         width: 100%;
     }
 }
