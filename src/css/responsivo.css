@@ -53,6 +53,7 @@
     .btn-comprar,
     .btn-trailer {
         width: 70%;
+        padding: 20px;
     }
 }
 
@@ -68,5 +69,11 @@
 
     .compre-ja .cartao .capa-do-jogo {
         max-width: 80%;
+    }
+
+    .btn-comprar,
+    .btn-trailer {
+        width: 40%;
+        padding: 10px;
     }
 }
